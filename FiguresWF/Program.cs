@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
 //комментарий
+
+
 namespace FiguresWF
 {
     internal static class Program
